@@ -7,7 +7,7 @@
 ## 🧰 Stack technique
 
 **Langages & données**
-`Python` `SQL` `DuckDB` `DBT`
+`Python` `SQL` `DBT`
 
 **ML & Data Science**
 `Scikit-learn` `Pandas` `Numpy` `EDA` `Classification` `Clustering` `Régression`
@@ -22,7 +22,7 @@
 
 ## 📂 Projets phares
 
-### 🔍 [Détection de faux billets — ONCFM](lien_repo_P12)
+### 🔍 [Détection de faux billets — ONCFM](https://github.com/TristanDspt/Portefolio-OpenClassrooms)
 Comparaison de 4 algorithmes de classification (Régression Logistique, KNN, Random Forest, KMeans) pour identifier automatiquement les faux billets à partir de 6 dimensions géométriques.
 - Analyse exploratoire complète (EDA)
 - Évaluation via matrices de confusion, précision, recall
@@ -31,7 +31,7 @@ Comparaison de 4 algorithmes de classification (Régression Logistique, KNN, Ran
 
 ---
 
-### 🍷 [Segmentation client — BottleNeck](lien_repo_P13)
+### 🍷 [Segmentation client — BottleNeck](https://github.com/TristanDspt/Portefolio-OpenClassrooms)
 Segmentation non supervisée d'un portefeuille de vins (marchand en ligne) sur 4 axes : prix, ventes, ancienneté, rotation des stocks.
 - Comparaison KMeans vs Clustering Agglomératif
 - Identification d'un segment "Stock dormant" invisible en analyse bivariée
@@ -40,7 +40,7 @@ Segmentation non supervisée d'un portefeuille de vins (marchand en ligne) sur 4
 
 ---
 
-### 📈 [Pilotage de Portefeuille Financier](lien_repo_portfolio)
+### 📈 [Pilotage de Portefeuille Financier](https://github.com/TristanDspt/Personnal-Finance-Tracker)
 Application de suivi de portefeuille boursier en temps réel, de bout en bout.
 - Backend : Architecture PostgreSQL & pipeline ETL automatisé via API (yFinance)
 - Frontend : Web-App interactive sous Streamlit
@@ -53,8 +53,7 @@ Application de suivi de portefeuille boursier en temps réel, de bout en bout.
 
 | Certification | Organisme | Statut |
 |---|---|---|
-| RNCP 37837 — Data Analyst (Option Statistiques) | OpenClassrooms | ✅ Obtenu — Nov. 2025 |
-| RNCP 39775 — Expert en ingénierie et science des données | OpenClassrooms | 🔄 En cours |
+| RNCP 37837 — Data Analyst (Option Statistiques) | OpenClassrooms | ✅ Obtenu — Juillet 2026 |
 
 ---
 
