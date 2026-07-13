@@ -22,7 +22,7 @@
 
 ## 📂 Projets phares
 
-### 🔍 [Détection de faux billets — ONCFM](https://github.com/TristanDspt/Portefolio-OpenClassrooms)
+### 🔍 [Détection de faux billets — ONCFM]([https://github.com/TristanDspt/Portefolio-OpenClassrooms](https://github.com/TristanDspt/Portefolio-OpenClassrooms/tree/master/P12%20-%20Detection%20de%20faux%20billets))
 Comparaison de 4 algorithmes de classification (Régression Logistique, KNN, Random Forest, KMeans) pour identifier automatiquement les faux billets à partir de 6 dimensions géométriques.
 - Analyse exploratoire complète (EDA)
 - Évaluation via matrices de confusion, précision, recall
@@ -31,7 +31,7 @@ Comparaison de 4 algorithmes de classification (Régression Logistique, KNN, Ran
 
 ---
 
-### 🍷 [Segmentation client — BottleNeck](https://github.com/TristanDspt/Portefolio-OpenClassrooms)
+### 🍷 [Segmentation client — BottleNeck]([https://github.com/TristanDspt/Portefolio-OpenClassrooms](https://github.com/TristanDspt/Portefolio-OpenClassrooms/tree/master/P13%20-%20Piloter%20un%20projet%20data%20augmenté%20avec%20l'IA))
 Segmentation non supervisée d'un portefeuille de vins (marchand en ligne) sur 4 axes : prix, ventes, ancienneté, rotation des stocks.
 - Comparaison KMeans vs Clustering Agglomératif
 - Identification d'un segment "Stock dormant" invisible en analyse bivariée
