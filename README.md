@@ -1,6 +1,6 @@
 # Bonjour, je suis Tristan Despont 👋
 
-🎯 **Data Scientist en reconversion** — 15 ans d'expérience en management opérationnel et optimisation logistique, aujourd'hui passionné par la data et le Machine Learning.
+🎯 **Data Analyst en reconversion** — 15 ans d'expérience en management opérationnel et optimisation logistique, aujourd'hui passionné par la data et le Machine Learning.
 
 ---
 
